@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lato&family=Montserrat:wght@100;200;300;400;700&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&family=Open+Sans:wght@300;400;500&family=Oxygen&family=Poppins:wght@100;200;300;400;500;600;700;800&family=Roboto+Mono:wght@400;500;600&family=Roboto:wght@300;500;700&family=Teko&family=Varela&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(109, 211, 109);
+  font-family: "Inter", sans-serif;
+}
+.container {
+  margin: 150px;
+}
+.box1 {
+  width: 250px;
+  height: 300px;
+  display: inline-block;
+  background-color: white;
+  padding: 30px;
+}
+p {
+  padding-top: 20px;
+  font-size: 20px;
+  opacity: 0.8;
+}
+h2 {
+  font-weight: 500;
+}
+#card-2 {
+  background-color: rgb(93, 93, 212);
+  color: white;
+}
+#card-3 {
+  background-color: rgb(100, 100, 177);
+  color: white;
+}
+#card-4 {
+  background-color: rgb(146, 146, 218);
+  color: white;
+}
+#card-1{
+    color: black;
+}

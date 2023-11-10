@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  margin: 5px;
+}
+.same {
+  padding: 20px;
+  margin: 5px;
+}
+#dif1 {
+  width: 60%;
+  background-color: red;
+}
+#dif2 {
+  width: 50%;
+  background-color: rgb(167, 161, 161);
+}
+#dif3 {
+  width: 40%;
+  background-color: rgb(226, 167, 56);
+}
+#dif4 {
+  width: 30%;
+  background-color: aqua;
+}
+
+#dif5 {
+  width: 20%;
+  background-color: black;
+  color: white;
+}
+span {
+  font-weight: bold;
+}
